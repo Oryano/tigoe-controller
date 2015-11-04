@@ -6,5 +6,5 @@ Game controller for Tom Igoe TCP socket game "BallDrop"
 
 Using processing 3.0
 
-### A project by [Hugo Lucen] and [Oryan Inbar](oryan1.com)
+### A project by [Hugo Lucena](http://hugoluc.com/) and [Oryan Inbar](http://oryan1.com/)
 
